@@ -20,7 +20,7 @@ Analista de TI e Infraestrutura focado em **Cloud Computing**, **Governança de 
 
 ### 📚 Estudos & Certificações em Cloud & IA
 
-- 🤖 **[AWS Certified AI Practitioner - Trilha de Estudos](https://github.com/Ramosuel/aws-certified-ai-practitioner-brasil)**  
+- 🤖 **[AWS Certified AI Practitioner - Trilha de Estudos](https://community.aws/@ramosuel)**  
   Material estruturado cobrindo Amazon Bedrock, Amazon SageMaker, Modelos Fundacionais, Engenharia de Prompts e IA Responsável na AWS.
 
 ---
