@@ -25,6 +25,13 @@ Analista de TI e Infraestrutura focado em **Cloud Computing**, **Governança de 
 
 ---
 
+  ### ✍️ Publicações & Artigos Técnicos
+
+- 📝 **[Estratégias Práticas de FinOps e Governança na AWS](https://builder.aws.com)**  
+  Artigo sobre governança de tags, automação de instâncias ociosas e otimização de custos em nuvem.
+
+---
+
 ### ✍️ Publicações & Artigos Técnicos
 
 - 📝 **Estratégias Práticas de FinOps e Governança na AWS** (*AWS Builder Center*)  
