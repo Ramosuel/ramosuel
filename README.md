@@ -37,7 +37,7 @@ Analista de TI e Infraestrutura focado em **Cloud Computing**, **Governança de 
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramosuel&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramosuel&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+<div align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ramosuel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramosuel&layout=compact&theme=tokyonight"/>
+</div>
