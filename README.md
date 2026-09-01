@@ -27,7 +27,7 @@ Analista de TI e Infraestrutura focado em **Cloud Computing**, **Governança de 
 
   ### ✍️ Publicações & Artigos Técnicos
 
-- 📝 **[Estratégias Práticas de FinOps e Governança na AWS](https://builder.aws.com)**  
+- 📝 **[Estratégias Práticas de FinOps e Governança na AWS](https://builder.aws.com/community/@ramosuel?tab=articles)**  
   Artigo sobre governança de tags, automação de instâncias ociosas e otimização de custos em nuvem.
 
 ---
